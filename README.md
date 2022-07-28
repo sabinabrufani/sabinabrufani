@@ -11,7 +11,6 @@
 
 ## About :sunglasses:
 - Customer Success and Technical Support Engineer specialized in managing complex processes, assisting clients, troubleshooting and solving problems.
-- I'm passionate about learning new technologies as well as sharing with others.
 - I'm currently taking the EC-Counsel Certified Ethical Hacker Course 
 
 
