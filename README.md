@@ -13,7 +13,8 @@
 - Customer Success and Technical Support Engineer specialized in managing complex processes, assisting clients, troubleshooting and solving problems.
 - I'm currently taking the EC-Counsel Certified Ethical Hacker Course 
 
-
+<br>
+<br>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
