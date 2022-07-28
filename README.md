@@ -23,9 +23,6 @@
 
 <br/>
 
-<a href="https://github.com/sabinabrufani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabinabrufani&theme=radical" />
-</a>
 
 
 ### Github Stats
