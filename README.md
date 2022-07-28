@@ -9,6 +9,9 @@
 <p><em> Chief Operating Officer & Technical Support at  <a href="https://girocredito.it/"> GiroCredito  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+<br>
+<br>
+
 ## About :sunglasses:
 - Customer Success and Technical Support Engineer specialized in managing complex processes, assisting clients, troubleshooting and solving problems.
 - I'm currently taking the EC-Counsel Certified Ethical Hacker Course 
