@@ -35,7 +35,7 @@
 
 ### Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=cuongnv-desabinabrufani&show_icons=true&theme=radical&line_height=27&v=5" alt="Sabina's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=sabinabrufani&show_icons=true&theme=radical&line_height=27&v=5" alt="Sabina's GitHub Stats" />
 
 
 ##  
